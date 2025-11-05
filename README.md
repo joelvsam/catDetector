@@ -1,5 +1,5 @@
 # catDetector
-Cat Detection using Raspberry Pi and YOLO detection model
+Cat Detection using Raspberry Pi, OpenCV and YOLO detection model
 A Raspberry Pi 4 Model B is used for this project.
 
 Open the link https://drive.google.com/file/d/1pXYTHO10JxiZAftAYDCLgxqQIEioaPHZ/view?usp=drive_link and download the file OxfordPets.zip.
